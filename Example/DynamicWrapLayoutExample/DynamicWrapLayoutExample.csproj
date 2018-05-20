@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\src\SuaveControls\SuaveControls\SuaveControls.DynamicWrapLayout.csproj">
-      <Project>{1E1749E5-7858-4656-A13B-890E9C5BFFF8}</Project>
+      <Project>{2f10d38f-0570-45e3-a017-44240bf4a71d}</Project>
       <Name>SuaveControls.DynamicWrapLayout</Name>
     </ProjectReference>
   </ItemGroup>
